@@ -1,0 +1,5 @@
+chrome-autoreload-chrashed
+
+An extension for chrome that automatically reloads crashed tabs. Currently
+requires you to use the Dev channel, since it uses the chrome.processes API
+that is currently only available there.

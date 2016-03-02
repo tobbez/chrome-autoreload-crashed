@@ -1,0 +1,15 @@
+{
+  "name": "autoreload-crashed",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Auto-reload crashed tabs",
+  "homepage_url": "http://ryara.net/",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "permissions": [
+    "tabs",
+    "processes"
+  ]
+}
