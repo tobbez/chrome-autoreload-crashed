@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "Auto-reload crashed tabs",
-  "homepage_url": "http://ryara.net/",
+  "homepage_url": "https://github.com/tobbez/chrome-autoreload-crashed/",
   "background": {
     "scripts": ["background.js"],
     "persistent": true
